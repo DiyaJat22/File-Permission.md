@@ -131,7 +131,7 @@ chown username file.txt        # Change owner
 chown username:groupname file.txt  # Change owner and group
 ```
 
-## **8. Default File Permissions (umask)**
+## **4. Default File Permissions (umask)**
 To check the current default permissions:
 
 ```bash
